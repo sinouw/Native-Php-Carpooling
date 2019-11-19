@@ -1,0 +1,19 @@
+BD
+2-type :
+	-a une voiture:
+		-inscription dans le site web.
+		-fixer la date de depart.
+		-fixer l' emplacement depart.
+		-fixer la destination.
+		-fixer le nombre des places disponibles.
+	-n' a pas une voiture 
+		-sans inscription
+		-champ de saise de recherche
+		-liste deroulante du destination
+		-champ de saise de la date 
+		-boutton qui affihce le resultat de la demande 
+-----------------------------------------------------------------------------
+menu : 
+	-inscription
+	-ajouter une annonce 
+	-recherche d une annonce 
